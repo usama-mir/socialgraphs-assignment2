@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"54812367": {"pageid": 54812367, "ns": 0, "title": "Joan (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Punisher supporting characters#Joan]]"}}}]}}}}

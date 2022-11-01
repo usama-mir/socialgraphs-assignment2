@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"68429640": {"pageid": 68429640, "ns": 0, "title": "Nightcrawler (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Nightcrawler (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

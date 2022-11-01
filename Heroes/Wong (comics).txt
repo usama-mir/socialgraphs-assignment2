@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"66931734": {"pageid": 66931734, "ns": 0, "title": "Wong (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Wong (Marvel Comics)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

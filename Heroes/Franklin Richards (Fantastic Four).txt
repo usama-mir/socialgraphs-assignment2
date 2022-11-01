@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"55909010": {"pageid": 55909010, "ns": 0, "title": "Franklin Richards (Fantastic Four)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Franklin Richards (character)]]\n\n{{R from move}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70143345": {"pageid": 70143345, "ns": 0, "title": "Lockjaw (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Lockjaw (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

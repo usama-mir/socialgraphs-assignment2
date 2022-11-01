@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"5927844": {"pageid": 5927844, "ns": 0, "title": "Randall Shire", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Marvel Comics characters: S]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"62028241": {"pageid": 62028241, "ns": 0, "title": "Darwin (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Darwin (character)]]\n\n{{R from move}}"}}}]}}}}

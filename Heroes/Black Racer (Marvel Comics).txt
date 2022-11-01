@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"6171346": {"pageid": 6171346, "ns": 0, "title": "Black Racer (Marvel Comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Serpent Society#Viper's agents]]"}}}]}}}}

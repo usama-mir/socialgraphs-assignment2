@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"5812972": {"pageid": 5812972, "ns": 0, "title": "Junta (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[The Crew (comics)]]\n\n{{Rcat shell|\n{{r with history}}\n{{r from character|Marvel Comics}}\n}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"56201825": {"pageid": 56201825, "ns": 0, "title": "Hellfire (J.T. Slade)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Hellfire (J. T. Slade)]]\n\n{{R from move}}"}}}]}}}}

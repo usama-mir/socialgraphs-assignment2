@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"10540115": {"pageid": 10540115, "ns": 0, "title": "Wipeout (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[List of X-Men enemies#Press Gang]]\n\n{{Redirect category shell|\n{{R from fictional character|X-Men}}\n}}"}}}]}}}}

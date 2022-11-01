@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70470762": {"pageid": 70470762, "ns": 0, "title": "Lei Kung (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Lei Kung (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70144332": {"pageid": 70144332, "ns": 0, "title": "XS (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[XS (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

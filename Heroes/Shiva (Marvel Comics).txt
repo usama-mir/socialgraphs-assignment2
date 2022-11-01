@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"59853798": {"pageid": 59853798, "ns": 0, "title": "Shiva (Marvel Comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Weapon X]]"}}}]}}}}

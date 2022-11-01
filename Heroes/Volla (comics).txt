@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"5624142": {"pageid": 5624142, "ns": 0, "title": "Volla (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Asgard (comics)#The six races]]"}}}]}}}}

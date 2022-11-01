@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"4297427": {"pageid": 4297427, "ns": 0, "title": "Seamus Mellencamp", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[List of Acolytes members]]"}}}]}}}}

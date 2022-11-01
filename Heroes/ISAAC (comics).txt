@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"13192975": {"pageid": 13192975, "ns": 0, "title": "ISAAC (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Eternals]]"}}}]}}}}

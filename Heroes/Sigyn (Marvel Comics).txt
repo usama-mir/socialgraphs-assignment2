@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"5624062": {"pageid": 5624062, "ns": 0, "title": "Sigyn (Marvel Comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[List of Thor (Marvel Comics) supporting characters#Other characters]]\n{{r with history}}"}}}]}}}}

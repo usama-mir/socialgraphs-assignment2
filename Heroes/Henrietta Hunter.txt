@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"4762272": {"pageid": 4762272, "ns": 0, "title": "Henrietta Hunter", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[X-Statix]]"}}}]}}}}

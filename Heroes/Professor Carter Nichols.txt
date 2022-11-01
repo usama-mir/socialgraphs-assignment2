@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"20898976": {"pageid": 20898976, "ns": 0, "title": "Professor Carter Nichols", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List_of_DC_Comics_characters:_N#Carter_Nichols]]\n\n{{Rcat shell|\n{{R to list entry}}\n}}"}}}]}}}}

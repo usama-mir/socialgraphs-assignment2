@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70100861": {"pageid": 70100861, "ns": 0, "title": "Snowbird (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Snowbird (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

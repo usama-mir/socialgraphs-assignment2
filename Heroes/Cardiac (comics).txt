@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70470517": {"pageid": 70470517, "ns": 0, "title": "Cardiac (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Cardiac (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

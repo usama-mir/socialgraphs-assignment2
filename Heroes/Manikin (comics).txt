@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"5280156": {"pageid": 5280156, "ns": 0, "title": "Manikin (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Flight members]]"}}}]}}}}

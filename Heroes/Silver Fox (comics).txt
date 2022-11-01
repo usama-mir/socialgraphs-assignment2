@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"68457216": {"pageid": 68457216, "ns": 0, "title": "Silver Fox (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Silver Fox (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

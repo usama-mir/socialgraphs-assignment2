@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"8258723": {"pageid": 8258723, "ns": 0, "title": "Raa of the Caves", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Marvel Comics teams and organizations]]"}}}]}}}}

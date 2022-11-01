@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"6432281": {"pageid": 6432281, "ns": 0, "title": "Smiling Tiger", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[New Warriors#Folding Circle]]"}}}]}}}}

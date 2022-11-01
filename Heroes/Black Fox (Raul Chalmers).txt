@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"7800359": {"pageid": 7800359, "ns": 0, "title": "Black Fox (Raul Chalmers)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Marvel Comics characters: B]]"}}}]}}}}

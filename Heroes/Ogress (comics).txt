@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"19512258": {"pageid": 19512258, "ns": 0, "title": "Ogress (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Hulk supporting characters]]\n\n{{Rcat shell|\n{{R to related topic}}\n}}"}}}]}}}}

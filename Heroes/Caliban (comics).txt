@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"56101999": {"pageid": 56101999, "ns": 0, "title": "Caliban (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Caliban (Marvel Comics)]]\n\n{{R from move}}"}}}]}}}}

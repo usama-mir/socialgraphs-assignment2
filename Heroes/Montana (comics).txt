@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"67427192": {"pageid": 67427192, "ns": 0, "title": "Montana (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Montana (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

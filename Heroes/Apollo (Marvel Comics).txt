@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"10022315": {"pageid": 10022315, "ns": 0, "title": "Apollo (Marvel Comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Olympians (Marvel Comics)#Known members]]"}}}]}}}}

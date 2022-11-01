@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"6004410": {"pageid": 6004410, "ns": 0, "title": "Ocean (Marvel Comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[X-Statix]]\n{{R from fictional character|Marvel Comics}}"}}}]}}}}

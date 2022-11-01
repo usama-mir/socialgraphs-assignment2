@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70172101": {"pageid": 70172101, "ns": 0, "title": "Big Wheel (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Big Wheel (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

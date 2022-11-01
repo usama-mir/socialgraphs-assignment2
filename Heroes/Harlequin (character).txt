@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"69711170": {"pageid": 69711170, "ns": 0, "title": "Harlequin (character)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Harlequin (DC Comics)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

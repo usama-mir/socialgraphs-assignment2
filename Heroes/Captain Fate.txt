@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"12401972": {"pageid": 12401972, "ns": 0, "title": "Captain Fate", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Captain Britain and MI13]]"}}}]}}}}

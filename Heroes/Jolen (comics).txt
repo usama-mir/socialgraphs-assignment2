@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70470553": {"pageid": 70470553, "ns": 0, "title": "Jolen (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Jolen]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

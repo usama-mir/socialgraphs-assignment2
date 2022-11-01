@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70172060": {"pageid": 70172060, "ns": 0, "title": "Speed Demon (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Speed Demon (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

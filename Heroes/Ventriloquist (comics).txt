@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"61969508": {"pageid": 61969508, "ns": 0, "title": "Ventriloquist (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Ventriloquist (character)]]\n\n{{R from move}}"}}}]}}}}

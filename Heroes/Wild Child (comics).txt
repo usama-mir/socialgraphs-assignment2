@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"68457278": {"pageid": 68457278, "ns": 0, "title": "Wild Child (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Wild Child (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

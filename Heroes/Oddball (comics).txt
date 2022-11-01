@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"68262686": {"pageid": 68262686, "ns": 0, "title": "Oddball (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Oddball (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"6584987": {"pageid": 6584987, "ns": 0, "title": "Lupo (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Savage Land Mutates]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"13767942": {"pageid": 13767942, "ns": 0, "title": "Stunt-Master (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List_of_Daredevil_enemies#S]]"}}}]}}}}

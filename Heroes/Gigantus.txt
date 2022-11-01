@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"13020139": {"pageid": 13020139, "ns": 0, "title": "Gigantus", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Stranger (comics)]]\n{{R from fictional character|Marvel Comics}}"}}}]}}}}

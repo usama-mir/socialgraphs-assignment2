@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"3740871": {"pageid": 3740871, "ns": 0, "title": "Squidboy", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Sammy Par\u00e9]]\n{{R from fictional character|Marvel Comics}}"}}}]}}}}

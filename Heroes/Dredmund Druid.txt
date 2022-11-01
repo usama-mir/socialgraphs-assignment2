@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"12722779": {"pageid": 12722779, "ns": 0, "title": "Dredmund Druid", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Dredmund the Druid]]\n{{R from fictional character|Marvel Comics}}"}}}]}}}}

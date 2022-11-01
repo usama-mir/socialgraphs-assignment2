@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"66931765": {"pageid": 66931765, "ns": 0, "title": "Eitri (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Eitri (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

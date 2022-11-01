@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"8379290": {"pageid": 8379290, "ns": 0, "title": "Whiteout (Marvel Comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Savage Land Mutates#Whiteout]]"}}}]}}}}

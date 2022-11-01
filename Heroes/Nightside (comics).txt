@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"1911521": {"pageid": 1911521, "ns": 0, "title": "Nightside (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Marvel Comics characters: N#Nightside]]"}}}]}}}}

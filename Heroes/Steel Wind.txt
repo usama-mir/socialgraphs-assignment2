@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"27685406": {"pageid": 27685406, "ns": 0, "title": "Steel Wind", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Ghost Rider#Enemies]]\n\n{{R from fictional character|Marvel Comics}}"}}}]}}}}

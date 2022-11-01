@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"8514147": {"pageid": 8514147, "ns": 0, "title": "Rumiko Fujikawa", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Iron Man supporting characters]]"}}}]}}}}

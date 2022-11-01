@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"61980543": {"pageid": 61980543, "ns": 0, "title": "Bullseye (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Bullseye (character)]]\n\n{{R from move}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"67732097": {"pageid": 67732097, "ns": 0, "title": "Cannonball (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Cannonball (Marvel Comics)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

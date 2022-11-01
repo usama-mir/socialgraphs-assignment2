@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"5857695": {"pageid": 5857695, "ns": 0, "title": "Locust (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Hulk supporting characters]]"}}}]}}}}

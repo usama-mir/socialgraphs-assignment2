@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"66634427": {"pageid": 66634427, "ns": 0, "title": "Mister Fantastic", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Reed Richards]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

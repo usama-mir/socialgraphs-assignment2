@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"10024410": {"pageid": 10024410, "ns": 0, "title": "Dionysus (Marvel Comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Olympians (Marvel Comics)#Known members]]"}}}]}}}}

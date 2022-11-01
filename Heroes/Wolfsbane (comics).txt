@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70144695": {"pageid": 70144695, "ns": 0, "title": "Wolfsbane (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Wolfsbane (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

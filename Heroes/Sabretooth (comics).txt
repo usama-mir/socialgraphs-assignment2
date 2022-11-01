@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"68457265": {"pageid": 68457265, "ns": 0, "title": "Sabretooth (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Sabretooth (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"68457231": {"pageid": 68457231, "ns": 0, "title": "Chamber (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Chamber (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

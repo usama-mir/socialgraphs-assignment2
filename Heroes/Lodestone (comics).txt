@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"62567542": {"pageid": 62567542, "ns": 0, "title": "Lodestone (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Darkhawk#Enemies]]"}}}]}}}}

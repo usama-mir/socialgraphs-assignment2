@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"68457256": {"pageid": 68457256, "ns": 0, "title": "Marrow (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Marrow (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

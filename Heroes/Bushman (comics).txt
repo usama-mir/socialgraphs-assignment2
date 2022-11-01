@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70084762": {"pageid": 70084762, "ns": 0, "title": "Bushman (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Bushman (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

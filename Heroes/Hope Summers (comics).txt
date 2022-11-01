@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70144813": {"pageid": 70144813, "ns": 0, "title": "Hope Summers (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Hope Summers (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

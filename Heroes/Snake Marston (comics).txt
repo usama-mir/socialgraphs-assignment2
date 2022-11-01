@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"6999119": {"pageid": 6999119, "ns": 0, "title": "Snake Marston (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Enforcers (comics)#Later members]]"}}}]}}}}

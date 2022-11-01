@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"68219826": {"pageid": 68219826, "ns": 0, "title": "Grim Reaper (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Grim Reaper (Marvel Comics)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"65084895": {"pageid": 65084895, "ns": 0, "title": "Bloodsport (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Bloodsport (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

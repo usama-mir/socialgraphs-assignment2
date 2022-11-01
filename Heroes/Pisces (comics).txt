@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70470751": {"pageid": 70470751, "ns": 0, "title": "Pisces (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Pisces (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

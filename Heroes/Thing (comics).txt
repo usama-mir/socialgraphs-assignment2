@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"66542100": {"pageid": 66542100, "ns": 0, "title": "Thing (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Ben Grimm]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

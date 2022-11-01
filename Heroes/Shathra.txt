@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"9658878": {"pageid": 9658878, "ns": 0, "title": "Shathra", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Spider-Man enemies]]\n\n{{Rcat shell|\n{{R to related topic}}\n}}"}}}]}}}}

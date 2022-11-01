@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"66044527": {"pageid": 66044527, "ns": 0, "title": "Rattler (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Rattler (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

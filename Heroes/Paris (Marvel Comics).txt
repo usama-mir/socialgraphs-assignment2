@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"14384812": {"pageid": 14384812, "ns": 0, "title": "Paris (Marvel Comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Pantheon (Marvel Comics)]]"}}}]}}}}

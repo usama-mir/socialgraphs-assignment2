@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"65455972": {"pageid": 65455972, "ns": 0, "title": "Overdrive (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Overdrive (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

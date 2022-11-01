@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"5752013": {"pageid": 5752013, "ns": 0, "title": "Scorpia (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[List of Marvel Comics characters: S#Scorpia]]\n\n{{r from merge}}"}}}]}}}}

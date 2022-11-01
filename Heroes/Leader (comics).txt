@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"66931748": {"pageid": 66931748, "ns": 0, "title": "Leader (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Leader (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

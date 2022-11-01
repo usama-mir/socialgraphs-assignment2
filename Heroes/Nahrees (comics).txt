@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"44639649": {"pageid": 44639649, "ns": 0, "title": "Nahrees (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Inhumans]]\n\n{{Redirect category shell|1=\n{{R from move}}\n{{R from unnecessary disambiguation}}\n{{R from fictional character|Marvel Comics}}\n}}"}}}]}}}}

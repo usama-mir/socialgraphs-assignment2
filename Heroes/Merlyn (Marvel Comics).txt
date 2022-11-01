@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"5061984": {"pageid": 5061984, "ns": 0, "title": "Merlyn (Marvel Comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Roma (comics)]]"}}}]}}}}

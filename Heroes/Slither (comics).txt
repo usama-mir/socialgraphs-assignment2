@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"6337580": {"pageid": 6337580, "ns": 0, "title": "Slither (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Resistants#Members]]"}}}]}}}}

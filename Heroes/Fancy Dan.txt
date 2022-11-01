@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"8685740": {"pageid": 8685740, "ns": 0, "title": "Fancy Dan", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Enforcers (comics)#Original members]]"}}}]}}}}

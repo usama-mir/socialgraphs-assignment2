@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"59848186": {"pageid": 59848186, "ns": 0, "title": "Stellaris (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Thor (Marvel Comics) enemies]]"}}}]}}}}

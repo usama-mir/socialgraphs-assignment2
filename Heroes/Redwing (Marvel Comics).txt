@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"51448482": {"pageid": 51448482, "ns": 0, "title": "Redwing (Marvel Comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Falcon (comics)#Powers]]\n\n{{Rcat shell|\n{{R to section}}\n}}"}}}]}}}}

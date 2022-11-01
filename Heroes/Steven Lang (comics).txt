@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70144783": {"pageid": 70144783, "ns": 0, "title": "Steven Lang (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Steven Lang (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"5263900": {"pageid": 5263900, "ns": 0, "title": "Crimson Curse", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[A-Next#Crimson Curse]]\n\n{{r to section}}"}}}]}}}}

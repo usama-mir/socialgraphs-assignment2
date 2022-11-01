@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70172023": {"pageid": 70172023, "ns": 0, "title": "Scream (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Scream (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"3912322": {"pageid": 3912322, "ns": 0, "title": "Orphan (Marvel Comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[X-Statix]]\n\n{{Redirect category shell|\n{{R avoided double redirect|Mister Sensitive}}\n}}"}}}]}}}}

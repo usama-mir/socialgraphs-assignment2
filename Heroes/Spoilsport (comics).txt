@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"59782799": {"pageid": 59782799, "ns": 0, "title": "Spoilsport (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of X-Men enemies]]\n\n{{Redirect category shell|\n{{R from fictional character|X-Men}}\n}}"}}}]}}}}

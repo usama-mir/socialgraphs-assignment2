@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"9483652": {"pageid": 9483652, "ns": 0, "title": "Star Thief", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[New Warriors#Enemies]]"}}}]}}}}

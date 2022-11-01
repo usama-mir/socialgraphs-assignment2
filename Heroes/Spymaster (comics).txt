@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"68116674": {"pageid": 68116674, "ns": 0, "title": "Spymaster (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Spymaster (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

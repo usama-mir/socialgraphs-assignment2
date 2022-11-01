@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"62028284": {"pageid": 62028284, "ns": 0, "title": "Gentle (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Gentle (character)]]\n\n{{R from move}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"67913297": {"pageid": 67913297, "ns": 0, "title": "MODAM", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Maria Pym]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

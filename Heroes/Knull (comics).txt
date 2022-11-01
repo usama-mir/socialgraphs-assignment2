@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"65084793": {"pageid": 65084793, "ns": 0, "title": "Knull (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Knull (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

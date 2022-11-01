@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"6326163": {"pageid": 6326163, "ns": 0, "title": "Saul (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Externals]]\n{{Redirect category shell|1=\n{{R from related topic}}\n{{R from fictional character|Marvel Comics}}\n}}"}}}]}}}}

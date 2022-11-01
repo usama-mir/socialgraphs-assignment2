@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"55418938": {"pageid": 55418938, "ns": 0, "title": "Andy Lorimer", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Punisher supporting characters#Andy Lorimer]]"}}}]}}}}

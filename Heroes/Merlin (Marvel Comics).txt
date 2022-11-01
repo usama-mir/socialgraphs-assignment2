@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"6483781": {"pageid": 6483781, "ns": 0, "title": "Merlin (Marvel Comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Merlin in comics#Marvel Comics]]\n{{r to section}}"}}}]}}}}

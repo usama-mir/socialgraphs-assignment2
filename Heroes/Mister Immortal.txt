@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"68056549": {"pageid": 68056549, "ns": 0, "title": "Mister Immortal", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Mr. Immortal]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

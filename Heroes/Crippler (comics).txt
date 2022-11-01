@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"68196244": {"pageid": 68196244, "ns": 0, "title": "Crippler (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Crippler (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

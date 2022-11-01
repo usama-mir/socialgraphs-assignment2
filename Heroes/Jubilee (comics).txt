@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"66033161": {"pageid": 66033161, "ns": 0, "title": "Jubilee (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Jubilee (Marvel Comics)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"23298200": {"pageid": 23298200, "ns": 0, "title": "Morrat", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Skrull#Known Skrulls]]\n\n{{Rcat shell|\n{{R to related topic}}\n}}"}}}]}}}}

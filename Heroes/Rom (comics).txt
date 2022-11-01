@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"63266308": {"pageid": 63266308, "ns": 0, "title": "Rom (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Rom the Space Knight]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"71498915": {"pageid": 71498915, "ns": 0, "title": "Metalhead (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Metalhead (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

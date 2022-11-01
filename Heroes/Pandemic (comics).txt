@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"58475177": {"pageid": 58475177, "ns": 0, "title": "Pandemic (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Rogue (Marvel Comics)#Endangered Species: Rogue's X-Men]]\n\n{{R to section}}"}}}]}}}}

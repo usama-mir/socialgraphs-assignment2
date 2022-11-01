@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"68263989": {"pageid": 68263989, "ns": 0, "title": "Apocalypse (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Apocalypse (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

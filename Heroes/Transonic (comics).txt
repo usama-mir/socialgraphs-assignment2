@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"32592177": {"pageid": 32592177, "ns": 0, "title": "Transonic (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of X-Men members]]\n\n{{Redirect category shell|\n{{R from fictional character|X-Men}}\n}}"}}}]}}}}

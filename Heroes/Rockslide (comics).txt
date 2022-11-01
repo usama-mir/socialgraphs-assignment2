@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70144378": {"pageid": 70144378, "ns": 0, "title": "Rockslide (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Rockslide (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

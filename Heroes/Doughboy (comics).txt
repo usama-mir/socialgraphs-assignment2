@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"68264009": {"pageid": 68264009, "ns": 0, "title": "Doughboy (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Doughboy (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

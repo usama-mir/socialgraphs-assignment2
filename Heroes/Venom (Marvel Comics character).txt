@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"68895916": {"pageid": 68895916, "ns": 0, "title": "Venom (Marvel Comics character)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Venom (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n{{R from unnecessary disambiguation}}\n{{R unprintworthy}}\n}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"64114355": {"pageid": 64114355, "ns": 0, "title": "Nebula (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Nebula (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

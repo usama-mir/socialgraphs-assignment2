@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"6483908": {"pageid": 6483908, "ns": 0, "title": "Kamikaze (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[New Mutants]]"}}}]}}}}

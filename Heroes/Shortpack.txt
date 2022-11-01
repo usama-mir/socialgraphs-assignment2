@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"5804080": {"pageid": 5804080, "ns": 0, "title": "Shortpack", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Fantomex#Weapon X and Mystique]]"}}}]}}}}

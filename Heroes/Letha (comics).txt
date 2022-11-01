@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"67867095": {"pageid": 67867095, "ns": 0, "title": "Letha (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Letha (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

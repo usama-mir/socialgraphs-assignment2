@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"64749724": {"pageid": 64749724, "ns": 0, "title": "Swarm (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Swarm (Marvel Comics)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

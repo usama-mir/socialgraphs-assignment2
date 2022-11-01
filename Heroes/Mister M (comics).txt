@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"71498943": {"pageid": 71498943, "ns": 0, "title": "Mister M (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Mister M (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

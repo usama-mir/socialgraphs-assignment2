@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"5344204": {"pageid": 5344204, "ns": 0, "title": "Angel Dust (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Morlocks (comics)#Chicago Morlocks]]"}}}]}}}}

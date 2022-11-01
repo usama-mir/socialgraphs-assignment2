@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"23326314": {"pageid": 23326314, "ns": 0, "title": "Sequoia (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Cotati (comics)#Known Cotati]]"}}}]}}}}

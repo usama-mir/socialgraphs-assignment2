@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"6207543": {"pageid": 6207543, "ns": 0, "title": "Charlotte Jones (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Marvel Comics characters: J]]"}}}]}}}}

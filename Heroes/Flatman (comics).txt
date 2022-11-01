@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"67867086": {"pageid": 67867086, "ns": 0, "title": "Flatman (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Flatman (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

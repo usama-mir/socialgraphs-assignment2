@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"66589118": {"pageid": 66589118, "ns": 0, "title": "Mother Night (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Mother Night (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

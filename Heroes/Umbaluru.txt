@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"62979711": {"pageid": 62979711, "ns": 0, "title": "Umbaluru", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Doomsday Clock characters#Sleeping_Soldiers]]"}}}]}}}}

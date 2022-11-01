@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70171995": {"pageid": 70171995, "ns": 0, "title": "Billy Connors (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Billy Connors (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

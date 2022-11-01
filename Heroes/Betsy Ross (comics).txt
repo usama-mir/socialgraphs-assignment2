@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"62019880": {"pageid": 62019880, "ns": 0, "title": "Betsy Ross (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Betsy Ross (character)]]\n\n{{R from move}}"}}}]}}}}

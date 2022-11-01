@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"17830527": {"pageid": 17830527, "ns": 0, "title": "Junzo Muto", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[the Hand (comics)#Known members]]\n\n{{Rcat shell|\n{{r with history}}\n{{r from fictional character|Marvel Comics}}\n}}"}}}]}}}}

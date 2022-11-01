@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"67878659": {"pageid": 67878659, "ns": 0, "title": "Feral (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Feral (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

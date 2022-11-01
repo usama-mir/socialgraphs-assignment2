@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"35587447": {"pageid": 35587447, "ns": 0, "title": "Sydren", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[S.W.O.R.D.]]"}}}]}}}}

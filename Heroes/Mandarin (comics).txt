@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"62019799": {"pageid": 62019799, "ns": 0, "title": "Mandarin (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Mandarin (character)]]\n\n{{R from move}}"}}}]}}}}

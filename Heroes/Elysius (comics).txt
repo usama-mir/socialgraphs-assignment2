@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"14070820": {"pageid": 14070820, "ns": 0, "title": "Elysius (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Elysius]]\n\n{{Redirect category shell|\n{{R from unnecessary disambiguation}}\n}}"}}}]}}}}

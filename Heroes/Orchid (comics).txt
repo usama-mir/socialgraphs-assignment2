@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"6132567": {"pageid": 6132567, "ns": 0, "title": "Orchid (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[X-Statix]]\n{{R from fictional character|Marvel Comics}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"10361543": {"pageid": 10361543, "ns": 0, "title": "Smartship Friday", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Power Pack]]"}}}]}}}}

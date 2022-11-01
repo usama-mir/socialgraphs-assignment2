@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"34141088": {"pageid": 34141088, "ns": 0, "title": "Hex (Marvel Comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[ClanDestine#Dominic Destine (Hex)]]"}}}]}}}}

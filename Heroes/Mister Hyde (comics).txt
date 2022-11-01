@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"71368882": {"pageid": 71368882, "ns": 0, "title": "Mister Hyde (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Dr. Jekyll and Mr. Hyde (character)#Comics]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70171971": {"pageid": 70171971, "ns": 0, "title": "Puma (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Puma (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"6883853": {"pageid": 6883853, "ns": 0, "title": "Valda the Iron Maiden", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Arak (character)]]"}}}]}}}}

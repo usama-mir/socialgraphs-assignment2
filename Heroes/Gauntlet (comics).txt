@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"62028273": {"pageid": 62028273, "ns": 0, "title": "Gauntlet (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Gauntlet (Joseph Green)]]\n\n{{R from move}}"}}}]}}}}

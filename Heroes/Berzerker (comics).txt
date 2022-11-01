@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"1844659": {"pageid": 1844659, "ns": 0, "title": "Berzerker (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Morlocks (comics)#Mutant Massacre]]"}}}]}}}}

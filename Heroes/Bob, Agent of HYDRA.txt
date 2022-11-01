@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"42584538": {"pageid": 42584538, "ns": 0, "title": "Bob, Agent of HYDRA", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Bob, Agent of Hydra]]\n\n{{Redirect category shell|\n{{R from modification}}\n{{R from move}}\n}}"}}}]}}}}

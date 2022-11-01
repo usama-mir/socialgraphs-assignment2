@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"65455959": {"pageid": 65455959, "ns": 0, "title": "Klaw (Marvel Comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Klaw (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"57122959": {"pageid": 57122959, "ns": 0, "title": "U.S. Agent (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[U.S. Agent]]\n\n{{R from move}}"}}}]}}}}

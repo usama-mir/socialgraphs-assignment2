@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"1769774": {"pageid": 1769774, "ns": 0, "title": "Tag (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Hellions (Marvel Comics)#Hellions (Xavier Institute)]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"64114363": {"pageid": 64114363, "ns": 0, "title": "Crossbones (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Crossbones (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

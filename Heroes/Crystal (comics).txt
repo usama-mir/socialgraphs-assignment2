@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70144757": {"pageid": 70144757, "ns": 0, "title": "Crystal (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Crystal (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

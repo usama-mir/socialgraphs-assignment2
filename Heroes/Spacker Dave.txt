@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"54812344": {"pageid": 54812344, "ns": 0, "title": "Spacker Dave", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Punisher supporting characters#Spacker Dave]]"}}}]}}}}

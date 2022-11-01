@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"37303323": {"pageid": 37303323, "ns": 0, "title": "Manifold (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Eden Fesi]]\n\n{{Redirect category shell|1=\n{{R comics from alternative name}}\n}}"}}}]}}}}

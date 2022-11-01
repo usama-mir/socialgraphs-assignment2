@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"11456074": {"pageid": 11456074, "ns": 0, "title": "Kid Omega", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Quentin Quire]]\n\n{{Redirect category shell|1=\n{{R comics from alternative name}}\n}}"}}}]}}}}

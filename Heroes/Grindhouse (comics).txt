@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"6999222": {"pageid": 6999222, "ns": 0, "title": "Grindhouse (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Heroes for Hire]]"}}}]}}}}

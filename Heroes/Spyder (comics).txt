@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"59056454": {"pageid": 59056454, "ns": 0, "title": "Spyder (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Marvel Comics characters: C]]"}}}]}}}}

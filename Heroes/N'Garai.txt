@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"5638456": {"pageid": 5638456, "ns": 0, "title": "N'Garai", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#Redirect [[List of Marvel Comics teams and organizations#N'Garai]]"}}}]}}}}

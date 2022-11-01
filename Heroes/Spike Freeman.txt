@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"4762988": {"pageid": 4762988, "ns": 0, "title": "Spike Freeman", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[X-Statix]]"}}}]}}}}

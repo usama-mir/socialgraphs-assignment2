@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"6801567": {"pageid": 6801567, "ns": 0, "title": "Bulwark (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Hellions (Marvel Comics)]]"}}}]}}}}

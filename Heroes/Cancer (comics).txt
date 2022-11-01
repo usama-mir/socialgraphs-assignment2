@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"69098706": {"pageid": 69098706, "ns": 0, "title": "Cancer (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Zodiac (comics)#Membership]]"}}}]}}}}

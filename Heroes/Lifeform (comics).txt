@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"15483948": {"pageid": 15483948, "ns": 0, "title": "Lifeform (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Advanced Idea Mechanics]]"}}}]}}}}

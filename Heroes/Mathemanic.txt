@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"13477799": {"pageid": 13477799, "ns": 0, "title": "Mathemanic", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Psionex#Members]]"}}}]}}}}

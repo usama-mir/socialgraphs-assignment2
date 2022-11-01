@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"5344103": {"pageid": 5344103, "ns": 0, "title": "Cell (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Morlocks (comics)#Chicago Morlocks]]"}}}]}}}}

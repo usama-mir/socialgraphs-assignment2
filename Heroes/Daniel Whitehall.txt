@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"65525777": {"pageid": 65525777, "ns": 0, "title": "Daniel Whitehall", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#Redirect [[List of Marvel Comics characters: D#Daniel Whitehall]]"}}}]}}}}

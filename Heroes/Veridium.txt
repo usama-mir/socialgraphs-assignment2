@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"6525489": {"pageid": 6525489, "ns": 0, "title": "Veridium", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Will Magnus]]\n\n{{Redirect category shell|\n{{R comics from alternative name}}\n}}"}}}]}}}}

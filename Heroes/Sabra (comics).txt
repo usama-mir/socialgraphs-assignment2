@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"72064825": {"pageid": 72064825, "ns": 0, "title": "Sabra (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Sabra (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

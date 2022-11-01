@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"71330758": {"pageid": 71330758, "ns": 0, "title": "Tombstone (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Tombstone (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

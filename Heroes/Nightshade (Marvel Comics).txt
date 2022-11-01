@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"69753756": {"pageid": 69753756, "ns": 0, "title": "Nightshade (Marvel Comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Tilda Johnson]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

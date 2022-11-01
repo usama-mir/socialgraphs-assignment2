@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"2620746": {"pageid": 2620746, "ns": 0, "title": "Kleinstocks", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[List of Acolytes members]]\n\n{{r from fictional character|Marvel Comics}}"}}}]}}}}

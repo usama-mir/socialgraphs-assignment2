@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"67919090": {"pageid": 67919090, "ns": 0, "title": "Domino (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Domino (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

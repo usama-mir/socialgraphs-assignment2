@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"1181900": {"pageid": 1181900, "ns": 0, "title": "Cerebra", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[X-Men 2099]]"}}}]}}}}

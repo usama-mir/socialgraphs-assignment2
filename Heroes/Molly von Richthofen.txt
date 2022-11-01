@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"55619213": {"pageid": 55619213, "ns": 0, "title": "Molly von Richthofen", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Punisher supporting characters#Molly von Richthofen]]"}}}]}}}}

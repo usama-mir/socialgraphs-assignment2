@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"64114338": {"pageid": 64114338, "ns": 0, "title": "Happy Hogan (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Happy Hogan (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

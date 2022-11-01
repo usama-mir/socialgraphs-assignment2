@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"58949831": {"pageid": 58949831, "ns": 0, "title": "Blank (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[West Coast Avengers]]"}}}]}}}}

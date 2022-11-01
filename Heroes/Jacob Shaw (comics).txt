@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"10110905": {"pageid": 10110905, "ns": 0, "title": "Jacob Shaw (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Sebastian Shaw (character)]]"}}}]}}}}

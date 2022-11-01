@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"68507820": {"pageid": 68507820, "ns": 0, "title": "Beast (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Beast (Marvel Comics)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

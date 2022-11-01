@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"32631937": {"pageid": 32631937, "ns": 0, "title": "Spider-Man (Miles Morales)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Miles Morales]]\n{{R from fictional character|Marvel Comics}}\n{{R from alternative name}}"}}}]}}}}

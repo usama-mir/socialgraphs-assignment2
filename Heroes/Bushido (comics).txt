@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"65133241": {"pageid": 65133241, "ns": 0, "title": "Bushido (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Bushido (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

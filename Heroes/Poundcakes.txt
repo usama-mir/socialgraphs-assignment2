@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"57007290": {"pageid": 57007290, "ns": 0, "title": "Poundcakes", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Grapplers (comics)#Poundcakes]]\n{{R from modification}}"}}}]}}}}

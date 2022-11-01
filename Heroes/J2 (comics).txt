@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"3524781": {"pageid": 3524781, "ns": 0, "title": "J2 (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[A-Next#J2]]"}}}]}}}}

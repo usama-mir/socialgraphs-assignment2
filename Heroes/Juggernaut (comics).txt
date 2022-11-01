@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"67732123": {"pageid": 67732123, "ns": 0, "title": "Juggernaut (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Juggernaut (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

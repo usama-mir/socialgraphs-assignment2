@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"68262641": {"pageid": 68262641, "ns": 0, "title": "Swordsman (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Swordsman (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70470545": {"pageid": 70470545, "ns": 0, "title": "Haywire (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Haywire (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

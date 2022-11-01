@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"14360363": {"pageid": 14360363, "ns": 0, "title": "Annex (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[List of Avengers: The Initiative characters#Camp Hammond recruits]]"}}}]}}}}

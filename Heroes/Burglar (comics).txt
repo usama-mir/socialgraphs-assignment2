@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"69558338": {"pageid": 69558338, "ns": 0, "title": "Burglar (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Burglar (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

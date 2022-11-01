@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"7775630": {"pageid": 7775630, "ns": 0, "title": "Ani-Mator", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[The Fall of the Mutants]]\n\n{{Rcat shell|\n{{R to related topic}}\n}}"}}}]}}}}

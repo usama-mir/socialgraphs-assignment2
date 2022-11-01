@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"62028263": {"pageid": 62028263, "ns": 0, "title": "Sally Floyd (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Civil War: Front Line]]\n\n{{R from move}}"}}}]}}}}

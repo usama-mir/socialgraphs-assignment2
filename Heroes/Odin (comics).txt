@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"61957483": {"pageid": 61957483, "ns": 0, "title": "Odin (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Odin (Marvel Comics)]]\n\n{{R from move}}"}}}]}}}}

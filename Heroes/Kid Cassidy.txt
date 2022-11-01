@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"4340257": {"pageid": 4340257, "ns": 0, "title": "Kid Cassidy", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Gunhawks]]"}}}]}}}}

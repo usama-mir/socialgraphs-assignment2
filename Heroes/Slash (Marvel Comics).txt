@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"12443248": {"pageid": 12443248, "ns": 0, "title": "Slash (Marvel Comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Sin (Marvel Comics)]]"}}}]}}}}

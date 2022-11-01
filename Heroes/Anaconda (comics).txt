@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"66042983": {"pageid": 66042983, "ns": 0, "title": "Anaconda (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Anaconda (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

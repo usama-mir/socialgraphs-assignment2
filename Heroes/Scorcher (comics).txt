@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70172017": {"pageid": 70172017, "ns": 0, "title": "Scorcher (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Scorcher (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

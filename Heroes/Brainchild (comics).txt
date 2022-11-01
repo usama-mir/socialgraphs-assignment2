@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"10238098": {"pageid": 10238098, "ns": 0, "title": "Brainchild (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Savage Land Mutates]]"}}}]}}}}

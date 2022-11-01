@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"71148834": {"pageid": 71148834, "ns": 0, "title": "Icemaiden", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Glacier (DC Comics)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

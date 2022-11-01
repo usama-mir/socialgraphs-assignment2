@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"67730206": {"pageid": 67730206, "ns": 0, "title": "Angela (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Angela (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

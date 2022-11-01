@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"5667013": {"pageid": 5667013, "ns": 0, "title": "Conquest (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Invincible (comics)#Enemies]]"}}}]}}}}

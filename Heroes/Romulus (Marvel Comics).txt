@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"22362536": {"pageid": 22362536, "ns": 0, "title": "Romulus (Marvel Comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Romulus (comics)]]\n\n{{Redirect category shell|\n{{R from unnecessary disambiguation}}\n}}"}}}]}}}}

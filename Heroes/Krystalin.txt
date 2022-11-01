@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"4868806": {"pageid": 4868806, "ns": 0, "title": "Krystalin", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[X-Men 2099]]"}}}]}}}}

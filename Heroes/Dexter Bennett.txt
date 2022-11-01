@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"21689680": {"pageid": 21689680, "ns": 0, "title": "Dexter Bennett", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Daily Bugle#The DB]]\n\n{{Redirect category shell|1=\n{{R to section}}\n{{R from fictional character|Marvel Comics}}\n}}"}}}]}}}}

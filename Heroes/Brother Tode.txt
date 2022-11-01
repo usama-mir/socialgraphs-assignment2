@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"12375421": {"pageid": 12375421, "ns": 0, "title": "Brother Tode", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Deviant (comics)]]"}}}]}}}}

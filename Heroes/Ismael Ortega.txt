@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"4118538": {"pageid": 4118538, "ns": 0, "title": "Ismael Ortega", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[District X]]"}}}]}}}}

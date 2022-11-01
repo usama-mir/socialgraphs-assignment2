@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"6720680": {"pageid": 6720680, "ns": 0, "title": "Baroness Paula von Gunther", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Paula von Gunther]]\n\n{{Redirect category shell|1=\n{{R from long name}}\n}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"61957507": {"pageid": 61957507, "ns": 0, "title": "Jackal (Marvel Comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Jackal (Marvel Comics character)]]\n\n{{R from move}}"}}}]}}}}

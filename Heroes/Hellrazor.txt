@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"9851119": {"pageid": 9851119, "ns": 0, "title": "Hellrazor", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Scourge of the Underworld]]"}}}]}}}}

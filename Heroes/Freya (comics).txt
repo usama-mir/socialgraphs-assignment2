@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"67731963": {"pageid": 67731963, "ns": 0, "title": "Freya (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Freya (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

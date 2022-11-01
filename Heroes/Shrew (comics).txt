@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"6023895": {"pageid": 6023895, "ns": 0, "title": "Shrew (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Marvel Comics teams and organizations]]"}}}]}}}}

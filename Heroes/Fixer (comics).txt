@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"68219813": {"pageid": 68219813, "ns": 0, "title": "Fixer (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Fixer (Marvel Comics)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"9803618": {"pageid": 9803618, "ns": 0, "title": "Serpentina (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[X-Men 2099#Serpentina]]\n\n{{Redirect category shell|1=\n{{R to section}}\n{{R from fictional character|Marvel Comics}}\n}}"}}}]}}}}

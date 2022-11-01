@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"4946864": {"pageid": 4946864, "ns": 0, "title": "Ion (Marvel Comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Femizons]]"}}}]}}}}

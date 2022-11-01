@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"55387899": {"pageid": 55387899, "ns": 0, "title": "Jen Cooke", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Punisher supporting characters#Jen Cooke]]"}}}]}}}}

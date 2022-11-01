@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"5575091": {"pageid": 5575091, "ns": 0, "title": "Obliterator (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Elders of the Universe]]\n\n{{Rcat shell|\n{{R from fictional character|Marvel Comics}}\n}}\n\n[[Category:Elders of the Universe]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"6048865": {"pageid": 6048865, "ns": 0, "title": "Overkill (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[X-Statix]]\n{{R from fictional character|Marvel Comics}}"}}}]}}}}

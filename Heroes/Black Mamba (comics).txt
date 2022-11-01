@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"66044493": {"pageid": 66044493, "ns": 0, "title": "Black Mamba (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Black Mamba (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"66730284": {"pageid": 66730284, "ns": 0, "title": "Wiccan (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Wiccan (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

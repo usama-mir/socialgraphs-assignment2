@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"6426072": {"pageid": 6426072, "ns": 0, "title": "Prudence Leighton", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Mystique (character)]]\n\n{{Rcat shell|\n{{R to related topic}}\n}}"}}}]}}}}

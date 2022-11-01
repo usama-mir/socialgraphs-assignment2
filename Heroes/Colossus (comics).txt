@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"67732108": {"pageid": 67732108, "ns": 0, "title": "Colossus (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Colossus (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

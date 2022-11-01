@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"60813779": {"pageid": 60813779, "ns": 0, "title": "Anti-Venom (symbiote)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Anti-Venom]]\n\n{{Redirect category shell|1=\n{{R from move}}\n{{R from unnecessary disambiguation}}\n}}"}}}]}}}}

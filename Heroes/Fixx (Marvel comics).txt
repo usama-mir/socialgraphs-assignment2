@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"59974675": {"pageid": 59974675, "ns": 0, "title": "Fixx (Marvel comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of X-Men members]]\n\n{{Redirect category shell|\n{{R from fictional character|X-Men}}\n}}"}}}]}}}}

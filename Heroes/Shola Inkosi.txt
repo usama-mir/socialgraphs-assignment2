@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"58861736": {"pageid": 58861736, "ns": 0, "title": "Shola Inkosi", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Excalibur (comics)]]"}}}]}}}}

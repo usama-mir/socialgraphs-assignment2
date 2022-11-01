@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"66098423": {"pageid": 66098423, "ns": 0, "title": "Coachwhip (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Serpent Society]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

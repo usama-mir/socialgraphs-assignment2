@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"67730594": {"pageid": 67730594, "ns": 0, "title": "Malice (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Malice (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

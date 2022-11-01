@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"32285964": {"pageid": 32285964, "ns": 0, "title": "Jim Morita", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Sgt. Fury and his Howling Commandos#Characters]] {{R to section}}"}}}]}}}}

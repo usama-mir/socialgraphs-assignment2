@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70470505": {"pageid": 70470505, "ns": 0, "title": "Anole (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Anole (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

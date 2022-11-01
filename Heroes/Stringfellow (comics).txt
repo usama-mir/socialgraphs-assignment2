@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"6426428": {"pageid": 6426428, "ns": 0, "title": "Stringfellow (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[X-Corporation]]"}}}]}}}}

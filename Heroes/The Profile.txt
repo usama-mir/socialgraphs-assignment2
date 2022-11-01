@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"27358401": {"pageid": 27358401, "ns": 0, "title": "The Profile", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Profile (Marvel Comics)]]"}}}]}}}}

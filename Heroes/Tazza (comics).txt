@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"58276643": {"pageid": 58276643, "ns": 0, "title": "Tazza (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Marvel Comics characters: T]]"}}}]}}}}

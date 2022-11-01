@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"58464748": {"pageid": 58464748, "ns": 0, "title": "Polestar (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Kaine Parker]]"}}}]}}}}

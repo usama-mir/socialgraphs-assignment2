@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"22191740": {"pageid": 22191740, "ns": 0, "title": "Huntsman (Cephalus)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Olympians (Marvel Comics)]]"}}}]}}}}

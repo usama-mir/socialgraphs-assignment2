@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"62028232": {"pageid": 62028232, "ns": 0, "title": "Arabian Knight (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Arabian Knight (Marvel Comics)]]\n\n{{R from move}}"}}}]}}}}

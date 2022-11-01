@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"67625973": {"pageid": 67625973, "ns": 0, "title": "Taskmaster (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Taskmaster (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n{{R from incorrect disambiguation}}\n}}"}}}]}}}}

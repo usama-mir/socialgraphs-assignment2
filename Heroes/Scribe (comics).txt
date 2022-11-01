@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"14630460": {"pageid": 14630460, "ns": 0, "title": "Scribe (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Hellfire Club (comics)]]"}}}]}}}}

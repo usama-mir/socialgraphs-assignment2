@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"19731917": {"pageid": 19731917, "ns": 0, "title": "Pretty Boy (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Reavers (comics)]]"}}}]}}}}

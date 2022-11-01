@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"6045902": {"pageid": 6045902, "ns": 0, "title": "Hebe (Marvel Comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Olympians (Marvel Comics)]]"}}}]}}}}

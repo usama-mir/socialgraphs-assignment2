@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70470682": {"pageid": 70470682, "ns": 0, "title": "Jack Murdock (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Jack Murdock (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"2859070": {"pageid": 2859070, "ns": 0, "title": "Styx and Stone", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[List of Spider-Man enemies#Styx and Stone]]"}}}]}}}}

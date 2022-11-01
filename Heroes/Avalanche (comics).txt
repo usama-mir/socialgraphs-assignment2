@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"66135519": {"pageid": 66135519, "ns": 0, "title": "Avalanche (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Avalanche (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

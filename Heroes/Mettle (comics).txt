@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"71498933": {"pageid": 71498933, "ns": 0, "title": "Mettle (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Mettle (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

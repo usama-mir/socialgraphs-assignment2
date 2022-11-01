@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"5310863": {"pageid": 5310863, "ns": 0, "title": "Cobalt Man", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of X-Men enemies]]"}}}]}}}}

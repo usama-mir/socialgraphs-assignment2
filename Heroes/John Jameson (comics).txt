@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"68602655": {"pageid": 68602655, "ns": 0, "title": "John Jameson (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[John Jameson (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

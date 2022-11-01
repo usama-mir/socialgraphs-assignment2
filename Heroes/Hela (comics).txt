@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"66931694": {"pageid": 66931694, "ns": 0, "title": "Hela (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Hela (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"52320390": {"pageid": 52320390, "ns": 0, "title": "Scimitar (Marvel Comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Scimitar (comics)]]\n\n{{Redirect category shell|\n{{R from move}}\n{{R from unnecessary disambiguation}}\n}}"}}}]}}}}

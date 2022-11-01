@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70144829": {"pageid": 70144829, "ns": 0, "title": "Lockheed (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Lockheed (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"13142605": {"pageid": 13142605, "ns": 0, "title": "Human Top (David Mitchell)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Marvel Comics teams and organizations]]"}}}]}}}}

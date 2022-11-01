@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"11765653": {"pageid": 11765653, "ns": 0, "title": "Bird-Man", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Ani-Men]]"}}}]}}}}

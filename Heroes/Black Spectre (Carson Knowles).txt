@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"55378087": {"pageid": 55378087, "ns": 0, "title": "Black Spectre (Carson Knowles)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Black Spectre#Black Spectre (Carson Knowles)]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"10401765": {"pageid": 10401765, "ns": 0, "title": "Midgard Serpent (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Midgard Serpent (Marvel Comics)]]\n\n{{Redirect category shell|\n{{R from other disambiguation}}\n}}"}}}]}}}}

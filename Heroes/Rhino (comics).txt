@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"61980529": {"pageid": 61980529, "ns": 0, "title": "Rhino (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Rhino (character)]]\n\n{{R from move}}"}}}]}}}}

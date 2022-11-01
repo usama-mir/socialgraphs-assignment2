@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"6337211": {"pageid": 6337211, "ns": 0, "title": "Death Squad (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect[[List_of_Marvel_Comics_teams_and_organizations#Death_Squad]]"}}}]}}}}

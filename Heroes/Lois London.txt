@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"21296304": {"pageid": 21296304, "ns": 0, "title": "Lois London", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Dazzler (Marvel Comics)]]\n\n{{R from merge}}"}}}]}}}}

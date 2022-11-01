@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"67919070": {"pageid": 67919070, "ns": 0, "title": "Mystique (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Mystique (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"2119676": {"pageid": 2119676, "ns": 0, "title": "Gardener (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#Redirect [[Elders of the Universe]]\n\n[[Category:Elders of the Universe]]"}}}]}}}}

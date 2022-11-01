@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70172082": {"pageid": 70172082, "ns": 0, "title": "Dragon Man (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Dragon Man (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

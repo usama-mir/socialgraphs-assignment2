@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"64114374": {"pageid": 64114374, "ns": 0, "title": "Collector (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Collector (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n{{R from other disambiguation}}\n}}"}}}]}}}}

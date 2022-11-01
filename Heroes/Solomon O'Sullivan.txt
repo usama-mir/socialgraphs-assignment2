@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"6005909": {"pageid": 6005909, "ns": 0, "title": "Solomon O'Sullivan", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT[[X-Statix]]"}}}]}}}}

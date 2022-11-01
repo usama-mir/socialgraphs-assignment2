@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"27638237": {"pageid": 27638237, "ns": 0, "title": "Shriker", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Marvel Comics characters: S]]"}}}]}}}}

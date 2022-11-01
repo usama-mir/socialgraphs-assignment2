@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"67733626": {"pageid": 67733626, "ns": 0, "title": "Siege (John Kelly)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Siege (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

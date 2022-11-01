@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"68562750": {"pageid": 68562750, "ns": 0, "title": "Sage (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Sage (Marvel Comics)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

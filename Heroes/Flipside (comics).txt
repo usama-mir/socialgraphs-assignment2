@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"3648265": {"pageid": 3648265, "ns": 0, "title": "Flipside (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Marvel 2099]]"}}}]}}}}

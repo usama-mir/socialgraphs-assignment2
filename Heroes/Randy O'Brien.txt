@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"39474383": {"pageid": 39474383, "ns": 0, "title": "Randy O'Brien", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[DP 7#Main characters]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"11266285": {"pageid": 11266285, "ns": 0, "title": "Bliss (Marvel Comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Morlocks (comics)]]"}}}]}}}}

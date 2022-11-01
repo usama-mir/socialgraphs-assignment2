@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"66135536": {"pageid": 66135536, "ns": 0, "title": "Spiral (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Spiral (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

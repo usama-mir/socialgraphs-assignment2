@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70144769": {"pageid": 70144769, "ns": 0, "title": "Sebastian Shaw (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Sebastian Shaw (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"25273701": {"pageid": 25273701, "ns": 0, "title": "Predator X (Marvel Comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Predator X (character)]]\n\n{{Redirect category shell|\n{{R from unnecessary disambiguation}}\n}}"}}}]}}}}

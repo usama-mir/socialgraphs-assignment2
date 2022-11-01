@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"6432566": {"pageid": 6432566, "ns": 0, "title": "Primus (Marvel Comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Arnim Zola]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70470699": {"pageid": 70470699, "ns": 0, "title": "Dakota North (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Dakota North (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

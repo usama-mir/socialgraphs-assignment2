@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"54569894": {"pageid": 54569894, "ns": 0, "title": "Kingpin (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Kingpin (character)]]\n\n{{Redirect category shell|\n{{R from other disambiguation}}\n{{R from move}}\n}}"}}}]}}}}

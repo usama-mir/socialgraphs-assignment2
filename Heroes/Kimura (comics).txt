@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"60652066": {"pageid": 60652066, "ns": 0, "title": "Kimura (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Kimura (character)]]\n\n{{R from move}}"}}}]}}}}

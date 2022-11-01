@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"65084955": {"pageid": 65084955, "ns": 0, "title": "Amygdala (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Amygdala (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

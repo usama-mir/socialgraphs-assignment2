@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"5575609": {"pageid": 5575609, "ns": 0, "title": "Possessor (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Elders of the Universe#Members]]\n\n{{Rcat shell|\n{{R from fictional character|Marvel Comics}}\n}}\n\n[[Category:Elders of the Universe]]"}}}]}}}}

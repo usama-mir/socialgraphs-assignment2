@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"67730583": {"pageid": 67730583, "ns": 0, "title": "Bloodaxe (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Bloodaxe (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

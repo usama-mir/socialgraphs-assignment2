@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"10267749": {"pageid": 10267749, "ns": 0, "title": "Otomo (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Marvel Comics characters: O]]"}}}]}}}}

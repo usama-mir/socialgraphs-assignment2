@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"62169426": {"pageid": 62169426, "ns": 0, "title": "Rogue (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Rogue (Marvel Comics)]]\n\n{{R from move}}"}}}]}}}}

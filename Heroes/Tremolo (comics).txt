@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"6604598": {"pageid": 6604598, "ns": 0, "title": "Tremolo (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Marvel Comics teams and organizations]]"}}}]}}}}

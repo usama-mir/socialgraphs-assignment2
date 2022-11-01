@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"6926863": {"pageid": 6926863, "ns": 0, "title": "Rebel Ralston", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Sgt. Fury and his Howling Commandos#Characters]]"}}}]}}}}

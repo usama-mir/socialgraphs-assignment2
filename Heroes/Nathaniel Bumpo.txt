@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"54812369": {"pageid": 54812369, "ns": 0, "title": "Nathaniel Bumpo", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Punisher supporting characters#Nathaniel Bumpo]]"}}}]}}}}

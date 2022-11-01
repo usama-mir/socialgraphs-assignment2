@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"12045396": {"pageid": 12045396, "ns": 0, "title": "Jebediah Guthrie", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Cannonball (Marvel Comics)]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"66044520": {"pageid": 66044520, "ns": 0, "title": "Asp (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Asp (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

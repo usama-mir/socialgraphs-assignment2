@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"4860350": {"pageid": 4860350, "ns": 0, "title": "Vengeance (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Ghost Rider#Other Spirits of Vengeance]]"}}}]}}}}

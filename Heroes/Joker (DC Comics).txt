@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"44416096": {"pageid": 44416096, "ns": 0, "title": "Joker (DC Comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Joker (character)]]\n\n{{Redirect category shell|\n{{R from unnecessary disambiguation}}\n}}"}}}]}}}}

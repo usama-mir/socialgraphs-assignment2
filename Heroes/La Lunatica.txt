@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"2880221": {"pageid": 2880221, "ns": 0, "title": "La Lunatica", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[X-Men 2099]]"}}}]}}}}

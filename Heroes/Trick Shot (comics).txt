@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"68262692": {"pageid": 68262692, "ns": 0, "title": "Trick Shot (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Trick Shot (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

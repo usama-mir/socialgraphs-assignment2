@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"65455942": {"pageid": 65455942, "ns": 0, "title": "Achebe (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Achebe (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

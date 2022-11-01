@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"7977854": {"pageid": 7977854, "ns": 0, "title": "Damian Tryp", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[X-Factor Investigations]]\n\n{{r from fictional character|Marvel Comics}}"}}}]}}}}

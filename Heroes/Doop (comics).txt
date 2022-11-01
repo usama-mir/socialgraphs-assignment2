@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70470526": {"pageid": 70470526, "ns": 0, "title": "Doop (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Doop (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

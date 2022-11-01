@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"39474372": {"pageid": 39474372, "ns": 0, "title": "Friction (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[DP 7#Main characters]]"}}}]}}}}

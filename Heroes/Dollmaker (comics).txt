@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"65085109": {"pageid": 65085109, "ns": 0, "title": "Dollmaker (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Dollmaker (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

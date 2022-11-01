@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"61957497": {"pageid": 61957497, "ns": 0, "title": "Rick Jones (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Rick Jones (character)]]\n\n{{Redirect category shell|\n{{R from alternative disambiguation}}\n{{R from move}}\n}}"}}}]}}}}

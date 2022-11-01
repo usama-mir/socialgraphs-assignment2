@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"45485992": {"pageid": 45485992, "ns": 0, "title": "Psi-Hawk", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Psi-Force]]"}}}]}}}}

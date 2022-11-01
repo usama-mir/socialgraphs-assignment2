@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"61978582": {"pageid": 61978582, "ns": 0, "title": "Black Knight (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Black Knight (Marvel Comics)]]\n\n{{R from move}}"}}}]}}}}

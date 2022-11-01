@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70172106": {"pageid": 70172106, "ns": 0, "title": "Bloodshed (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Bloodshed (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

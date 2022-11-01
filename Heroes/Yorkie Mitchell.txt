@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"55425981": {"pageid": 55425981, "ns": 0, "title": "Yorkie Mitchell", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Punisher supporting characters#Yorkie Mitchell]]"}}}]}}}}

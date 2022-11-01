@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"5366818": {"pageid": 5366818, "ns": 0, "title": "Stinger (Marvel Comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Alliance of Evil]]"}}}]}}}}

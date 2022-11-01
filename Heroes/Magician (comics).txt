@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"62020156": {"pageid": 62020156, "ns": 0, "title": "Magician (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Magician (Marvel Comics)]]\n\n{{R from move}}"}}}]}}}}

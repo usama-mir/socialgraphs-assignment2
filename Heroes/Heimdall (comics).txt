@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"67731957": {"pageid": 67731957, "ns": 0, "title": "Heimdall (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Heimdall (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

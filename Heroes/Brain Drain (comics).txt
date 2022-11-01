@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70470483": {"pageid": 70470483, "ns": 0, "title": "Brain Drain (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Brain Drain (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

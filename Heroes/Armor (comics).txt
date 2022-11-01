@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"66167470": {"pageid": 66167470, "ns": 0, "title": "Armor (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Armor (Marvel Comics character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"62019908": {"pageid": 62019908, "ns": 0, "title": "Maestro (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Maestro (character)]]\n\n{{R from move}}"}}}]}}}}

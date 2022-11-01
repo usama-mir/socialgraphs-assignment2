@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70470608": {"pageid": 70470608, "ns": 0, "title": "Portal (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Portal (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

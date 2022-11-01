@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"58285053": {"pageid": 58285053, "ns": 0, "title": "Terraformer (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Marvel Comics teams and organizations#Members]]"}}}]}}}}

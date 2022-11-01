@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"59916107": {"pageid": 59916107, "ns": 0, "title": "Kiber the Cruel", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Black Panther supporting characters]]"}}}]}}}}

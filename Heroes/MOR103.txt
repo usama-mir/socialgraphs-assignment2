@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"62343354": {"pageid": 62343354, "ns": 0, "title": "MOR103", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Otilimab]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

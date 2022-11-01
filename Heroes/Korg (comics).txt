@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"62028316": {"pageid": 62028316, "ns": 0, "title": "Korg (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Korg (character)]]\n\n{{R from move}}"}}}]}}}}

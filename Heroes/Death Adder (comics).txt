@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"66044509": {"pageid": 66044509, "ns": 0, "title": "Death Adder (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Death Adder (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

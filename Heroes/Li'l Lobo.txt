@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"1628538": {"pageid": 1628538, "ns": 0, "title": "Li'l Lobo", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Lobo (DC Comics)]]\n\n{{Redirect category shell|1=\n{{R from fictional character|DC Comics}}\n}}"}}}]}}}}

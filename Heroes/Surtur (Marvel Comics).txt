@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"67730563": {"pageid": 67730563, "ns": 0, "title": "Surtur (Marvel Comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Surtur (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

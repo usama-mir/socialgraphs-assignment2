@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"66044483": {"pageid": 66044483, "ns": 0, "title": "Sidewinder (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Sidewinder (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

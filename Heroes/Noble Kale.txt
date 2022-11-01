@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"9600787": {"pageid": 9600787, "ns": 0, "title": "Noble Kale", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Ghost Rider#Noble Kale]]"}}}]}}}}

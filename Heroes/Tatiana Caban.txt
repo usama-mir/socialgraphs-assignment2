@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"4951399": {"pageid": 4951399, "ns": 0, "title": "Tatiana Caban", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[NYX (comics)#Main characters]]\n\n{{R to section}}"}}}]}}}}

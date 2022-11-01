@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"39474388": {"pageid": 39474388, "ns": 0, "title": "Scuzz (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[DP 7#Main characters]]"}}}]}}}}

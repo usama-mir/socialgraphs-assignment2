@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"56281787": {"pageid": 56281787, "ns": 0, "title": "Pyre (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Venom (comic book)#Venom: Funeral Pyre (1993)]]\n\n{{R from move}}"}}}]}}}}

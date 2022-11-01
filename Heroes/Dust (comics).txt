@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"68701503": {"pageid": 68701503, "ns": 0, "title": "Dust (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Dust (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

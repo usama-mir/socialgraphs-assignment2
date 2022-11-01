@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"67732101": {"pageid": 67732101, "ns": 0, "title": "Cloak and Dagger (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Cloak and Dagger (characters)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

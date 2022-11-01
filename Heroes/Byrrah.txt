@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"7739326": {"pageid": 7739326, "ns": 0, "title": "Byrrah", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Homo mermanus]]"}}}]}}}}

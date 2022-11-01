@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"2434505": {"pageid": 2434505, "ns": 0, "title": "Bling!", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Xavier Institute students and staff]]\n\n{{Redirect category shell|\n{{R from fictional character|X-Men}}\n}}"}}}]}}}}

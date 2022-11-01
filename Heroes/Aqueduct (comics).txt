@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"5003655": {"pageid": 5003655, "ns": 0, "title": "Aqueduct (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Marvel Comics characters: Z#Peter Van Zante]]\n{{r to section}}"}}}]}}}}

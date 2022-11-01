@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"62028338": {"pageid": 62028338, "ns": 0, "title": "Speed (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Speed (character)]]\n\n{{R from move}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70864231": {"pageid": 70864231, "ns": 0, "title": "Baby-Doll (character)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Batman: The Animated Series]]"}}}]}}}}

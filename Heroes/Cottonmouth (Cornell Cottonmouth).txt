@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"55597416": {"pageid": 55597416, "ns": 0, "title": "Cottonmouth (Cornell Cottonmouth)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Cottonmouth (Cornell Stokes)]]\n\n{{R from move}}"}}}]}}}}

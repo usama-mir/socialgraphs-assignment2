@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"5625652": {"pageid": 5625652, "ns": 0, "title": "Osiris (Marvel Comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Heliopolitans]]"}}}]}}}}

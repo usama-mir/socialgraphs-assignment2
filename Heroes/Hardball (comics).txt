@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"11436915": {"pageid": 11436915, "ns": 0, "title": "Hardball (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Avengers: The Initiative]]"}}}]}}}}

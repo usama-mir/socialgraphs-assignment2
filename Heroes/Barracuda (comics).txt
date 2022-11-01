@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"62028173": {"pageid": 62028173, "ns": 0, "title": "Barracuda (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Barracuda (Marvel Comics)]]\n\n{{R from move}}"}}}]}}}}

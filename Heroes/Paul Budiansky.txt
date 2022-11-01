@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"55134685": {"pageid": 55134685, "ns": 0, "title": "Paul Budiansky", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Punisher supporting characters#Paul Budiansky]]"}}}]}}}}

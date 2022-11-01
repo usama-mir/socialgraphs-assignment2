@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"60479595": {"pageid": 60479595, "ns": 0, "title": "Riri Williams", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Ironheart (character)]]\n\n{{R from move}}"}}}]}}}}

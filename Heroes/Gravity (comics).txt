@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70470542": {"pageid": 70470542, "ns": 0, "title": "Gravity (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Gravity (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

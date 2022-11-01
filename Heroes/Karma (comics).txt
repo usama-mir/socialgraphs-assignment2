@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70144801": {"pageid": 70144801, "ns": 0, "title": "Karma (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Karma (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

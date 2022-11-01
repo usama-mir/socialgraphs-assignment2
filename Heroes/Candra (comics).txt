@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"4058270": {"pageid": 4058270, "ns": 0, "title": "Candra (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of X-Men enemies]]\n\n{{Redirect category shell|\n{{R from fictional character|X-Men}}\n}}"}}}]}}}}

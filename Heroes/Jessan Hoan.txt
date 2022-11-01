@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"5263775": {"pageid": 5263775, "ns": 0, "title": "Jessan Hoan", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Madripoor]]"}}}]}}}}

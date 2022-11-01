@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"71319985": {"pageid": 71319985, "ns": 0, "title": "Robert Kelly (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Robert Kelly (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

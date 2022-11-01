@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"62028374": {"pageid": 62028374, "ns": 0, "title": "Porcupine (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Porcupine (Marvel Comics)]]\n\n{{R from move}}"}}}]}}}}

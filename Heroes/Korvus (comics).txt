@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"22449418": {"pageid": 22449418, "ns": 0, "title": "Korvus (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Korvus]]\n\n{{Redirect category shell|\n{{R from unnecessary disambiguation}}\n}}"}}}]}}}}

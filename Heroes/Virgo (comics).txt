@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70470758": {"pageid": 70470758, "ns": 0, "title": "Virgo (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Virgo (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

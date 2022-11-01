@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"67885291": {"pageid": 67885291, "ns": 0, "title": "Marvelman", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Miracleman (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

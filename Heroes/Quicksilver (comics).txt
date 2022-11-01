@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"66733002": {"pageid": 66733002, "ns": 0, "title": "Quicksilver (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Quicksilver (Marvel Comics)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

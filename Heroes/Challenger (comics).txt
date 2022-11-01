@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70470521": {"pageid": 70470521, "ns": 0, "title": "Challenger (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Challenger (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

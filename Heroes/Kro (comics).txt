@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"68513074": {"pageid": 68513074, "ns": 0, "title": "Kro (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Kro (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

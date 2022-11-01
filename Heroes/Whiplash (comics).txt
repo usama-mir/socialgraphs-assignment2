@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"62097623": {"pageid": 62097623, "ns": 0, "title": "Whiplash (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Whiplash (Marvel Comics)]]\n\n{{Redirect category shell|\n{{R from move}}\n{{R comics naming convention}}\n}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"5680825": {"pageid": 5680825, "ns": 0, "title": "Foxfire (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Squadron Supreme#Institute of Evil]]"}}}]}}}}

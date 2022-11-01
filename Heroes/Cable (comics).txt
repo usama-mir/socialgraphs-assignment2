@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"65220355": {"pageid": 65220355, "ns": 0, "title": "Cable (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Cable (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

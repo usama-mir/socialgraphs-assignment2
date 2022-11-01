@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"60020650": {"pageid": 60020650, "ns": 0, "title": "Fasaud", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Fantastic Four enemies]]"}}}]}}}}

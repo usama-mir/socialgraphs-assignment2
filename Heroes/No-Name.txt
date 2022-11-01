@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"57009540": {"pageid": 57009540, "ns": 0, "title": "No-Name", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Planet Hulk]]\n\n{{R from move}}"}}}]}}}}

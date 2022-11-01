@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"2614277": {"pageid": 2614277, "ns": 0, "title": "I...Vampire", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[I\u2026Vampire]]"}}}]}}}}

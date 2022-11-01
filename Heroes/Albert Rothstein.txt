@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"20638022": {"pageid": 20638022, "ns": 0, "title": "Albert Rothstein", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Atom Smasher (DC Comics)]]\n\n{{Redirect category shell|1=\n{{R from unnecessary disambiguation}}\n}}"}}}]}}}}

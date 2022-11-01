@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"68147407": {"pageid": 68147407, "ns": 0, "title": "Skids (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Skids (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"67730580": {"pageid": 67730580, "ns": 0, "title": "Piledriver (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Piledriver (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

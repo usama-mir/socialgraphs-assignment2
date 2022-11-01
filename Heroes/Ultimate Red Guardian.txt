@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"55927461": {"pageid": 55927461, "ns": 0, "title": "Ultimate Red Guardian", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Red Guardian#Ultimate Marvel]]"}}}]}}}}

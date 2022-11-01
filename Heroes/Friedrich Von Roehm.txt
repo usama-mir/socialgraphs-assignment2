@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"58748513": {"pageid": 58748513, "ns": 0, "title": "Friedrich Von Roehm", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Friedrich von Roehm]]\n\n{{R from move}}"}}}]}}}}

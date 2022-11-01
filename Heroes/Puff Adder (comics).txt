@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"66098428": {"pageid": 66098428, "ns": 0, "title": "Puff Adder (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Puff Adder (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

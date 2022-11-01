@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"71616960": {"pageid": 71616960, "ns": 0, "title": "Toad (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Toad (disambiguation)]]\n\n{{Redirect category shell|\n{{R from move}}\n{{R from incomplete dab}}\n}}"}}}]}}}}

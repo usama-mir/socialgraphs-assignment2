@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"6832404": {"pageid": 6832404, "ns": 0, "title": "Emma Steed", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Hellfire Club (comics)]]"}}}]}}}}

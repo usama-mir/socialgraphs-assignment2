@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"3382169": {"pageid": 3382169, "ns": 0, "title": "Gene Nation", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Morlocks (comics)#Africa.2FGene Nation]]\n\n{{R to section}}"}}}]}}}}

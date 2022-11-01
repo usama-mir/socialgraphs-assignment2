@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"6982003": {"pageid": 6982003, "ns": 0, "title": "711 (Quality Comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of Quality Comics characters##711]]\n\n{{Redirect category shell|1=\n{{R from fictional character|DC Comics}}\n}}"}}}]}}}}

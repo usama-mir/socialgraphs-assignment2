@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"48538903": {"pageid": 48538903, "ns": 0, "title": "Anthem (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[The Order (comics)#Current members]]\n\n{{r to related topic}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"58276029": {"pageid": 58276029, "ns": 0, "title": "King Bedlam", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Bedlam (comics)]]"}}}]}}}}

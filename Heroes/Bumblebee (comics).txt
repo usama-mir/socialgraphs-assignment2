@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70475358": {"pageid": 70475358, "ns": 0, "title": "Bumblebee (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Bumblebee (disambiguation)#Fiction]]\n\n{{Redirect category shell|\n{{R from incomplete disambiguation}}\n{{R to section}}\n}}"}}}]}}}}

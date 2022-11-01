@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"57361052": {"pageid": 57361052, "ns": 0, "title": "Deathlok (Michael Peterson)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Deathlok#In other media]]"}}}]}}}}

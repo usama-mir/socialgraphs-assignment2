@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"5344004": {"pageid": 5344004, "ns": 0, "title": "Litterbug (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Morlocks (comics)]]"}}}]}}}}

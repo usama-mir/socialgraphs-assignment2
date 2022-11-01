@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"60104024": {"pageid": 60104024, "ns": 0, "title": "Korrek", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Howard the Duck]]"}}}]}}}}

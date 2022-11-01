@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"68147412": {"pageid": 68147412, "ns": 0, "title": "Sunspot (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Sunspot (Marvel Comics)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"15042947": {"pageid": 15042947, "ns": 0, "title": "Geiger (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#redirect [[Avengers: The Initiative]]"}}}]}}}}

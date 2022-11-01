@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70441972": {"pageid": 70441972, "ns": 0, "title": "Spitfire (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Spitfire (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

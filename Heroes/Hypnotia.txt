@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"7755042": {"pageid": 7755042, "ns": 0, "title": "Hypnotia", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Iron Man (TV series)#First season]]"}}}]}}}}

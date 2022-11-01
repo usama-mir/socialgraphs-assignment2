@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"60632662": {"pageid": 60632662, "ns": 0, "title": "Northstar (Marvel Comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Northstar (character)]]\n\n{{Redirect category shell|\n{{R from unnecessary disambiguation}}\n}}"}}}]}}}}

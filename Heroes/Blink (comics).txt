@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"70143937": {"pageid": 70143937, "ns": 0, "title": "Blink (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Blink (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}

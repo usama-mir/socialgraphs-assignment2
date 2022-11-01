@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"24192843": {"pageid": 24192843, "ns": 0, "title": "Foxbat (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[List of X-Men enemies#List of members]]\n\n{{Redirect category shell|\n{{R from fictional character|X-Men}}\n}}"}}}]}}}}

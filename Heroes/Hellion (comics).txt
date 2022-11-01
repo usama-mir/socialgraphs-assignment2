@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"pages": {"44807054": {"pageid": 44807054, "ns": 0, "title": "Hellion (comics)", "revisions": [{"slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "#REDIRECT [[Hellion (character)]]\n\n{{Redirect category shell|1=\n{{R from move}}\n{{R from fictional character|Marvel Comics}}\n}}"}}}]}}}}
